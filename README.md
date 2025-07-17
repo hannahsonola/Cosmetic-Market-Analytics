@@ -26,7 +26,7 @@ The U.S. cosmetics market shows higher product engagement, greater brand diversi
 ## 🔍 Dashboard Analysis
 
 ### 1. Product Attributes 🔍  
-![Product Attributes Screenshot](images/cosmetics%201.png)
+![Product Attributes Screenshot](images/cosmetics 1.png.png)
 
 - Most listings are in Lips and Face categories  
 - India’s products often come in a limited range of sizes, shades, and forms  
