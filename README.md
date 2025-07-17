@@ -26,7 +26,7 @@ The U.S. cosmetics market shows higher product engagement, greater brand diversi
 ## 🔍 Dashboard Analysis
 
 ### 1. Product Attributes 🔍  
-![Product Attributes Screenshot](images/cosmetics 1.png.png)
+![Product Attributes Screenshot](images/cosmetics1.png.png)
 
 - Most listings are in Lips and Face categories  
 - India’s products often come in a limited range of sizes, shades, and forms  
@@ -37,7 +37,7 @@ The U.S. cosmetics market shows higher product engagement, greater brand diversi
 ---
 
 ### 2. Brand Landscape 🏷  
-![Brand Landscape Screenshot](images/cosmetics%202.png)
+![Brand Landscape Screenshot](images/cosmetics2.png)
 
 - USA features 300+ brands, nearly double India’s count  
 - Shared top brands: Revlon, Maybelline, Lakmé  
@@ -48,7 +48,7 @@ The U.S. cosmetics market shows higher product engagement, greater brand diversi
 ---
 
 ### 3. Price Analysis 💰  
-![Price Analysis Screenshot](images/cosmetics%203.png)
+![Price Analysis Screenshot](images/cosmetics3.png)
 
 - Indian listings cluster in the ₹300–₹700 range with very few luxury items  
 - USA products span from $5 to $60+, with strong representation in premium and indie brands  
