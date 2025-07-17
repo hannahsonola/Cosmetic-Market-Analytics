@@ -1,12 +1,10 @@
 # Cosmetic-Market-Analytics
-![Dashboard Preview](dashboard-preview.png)
-🔗 [Interact with dashboard here ](#) (Add your Power BI or hosted dashboard link here)
-
----
 
 ## 🧠 Introduction
 
 This project analyzes over 4,000 cosmetic product listings from *India* and the *USA*, scraped from platforms like Amazon, Flipkart, Ulta and Sephora. It compares pricing, product variety, brand spread and customer engagement, offering actionable insights to help brands and analysts decode market behaviour and improve strategy.
+
+🔗 [Interact with dashboard here ](#) (Add your Power BI or hosted dashboard link here)
 
 ---
 
