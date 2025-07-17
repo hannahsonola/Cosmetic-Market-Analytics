@@ -1,8 +1,6 @@
 # Cosmetic-Market-Analytics
-Visual data insights on cosmetics products across India and USA using Power BI
 ![Dashboard Preview](dashboard-preview.png)
-
-🔗 [Live Dashboard Link](#) (Add your Power BI or hosted dashboard link here)
+🔗 [Interact with dashboard here ](#) (Add your Power BI or hosted dashboard link here)
 
 ---
 
@@ -14,7 +12,7 @@ This project analyzes over 4,000 cosmetic product listings from *India* and the 
 
 ## 📊 Executive Summary
 
-The U.S. cosmetics market shows higher product engagement, greater brand diversity, and wider price ranges, while India leans toward affordability, local brands and fewer product customizations. Both countries favor *Lips* and *Face* categories, but differ in how they serve beauty needs and respond to consumer preferences.
+The U.S. cosmetics market shows higher product engagement, greater brand diversity and wider price ranges, while India leans toward affordability, local brands and fewer product customizations. Both countries favor *Lips* and *Face* categories, but differ in how they serve beauty needs and respond to consumer preferences.
 
 - 🧾 Products Analyzed: 4,500+  
 - ⭐ Customer Ratings: 5,200+  
@@ -29,10 +27,10 @@ The U.S. cosmetics market shows higher product engagement, greater brand diversi
 ![Product Attributes Screenshot](cosmetics1.png)
 
 - Most listings are in Lips and Face categories  
-- India’s products often come in a limited range of sizes, shades, and forms  
-- Dominant forms: Creams, liquids, and serums across both markets  
+- India’s products often come in a limited range of sizes, shades and forms  
+- Dominant forms: Creams, liquids and serums across both markets  
 
-💡 *Insight:* U.S. platforms support more customization and beauty diversity, while Indian offerings remain minimal and utility-driven  
+💡 *Insight:* U.S. platforms support more customization and beauty diversity, while Indian offerings remain minimal and utility driven  
 
 ---
 
@@ -41,9 +39,9 @@ The U.S. cosmetics market shows higher product engagement, greater brand diversi
 
 - USA features 300+ brands, nearly double India’s count  
 - Shared top brands: Revlon, Maybelline, Lakmé  
-- India relies on local mass market brands with fewer cross-category entries  
+- India relies on local mass market brands with fewer cross category entries  
 
-💡 *Insight:* India’s brand presence is narrower and more category-specific, limiting upselling and product bundling potential  
+💡 *Insight:* India’s brand presence is narrower and more category specific, limiting upselling and product bundling potential  
 
 ---
 
